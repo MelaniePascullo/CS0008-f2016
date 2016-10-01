@@ -1,0 +1,19 @@
+Define variable for usc or metric
+Define variable for distance
+Define variable for gas
+Ask user if they are using usc or metric
+If they are using metric...
+Ask user what distance they traveled in km
+Print "metric: distance = x km"
+Convert this distance to miles
+Print "usc: distance = x miles"
+Ask user how much gas was used in liters
+Print "metric: gas = x liters"
+Convert amount of  gas to gallons
+Print "usc: gas = x gallons"
+Compute consumption by writing that it equals distance/gas
+Print "metric: consumption = x 1/100km"
+Convert consumption to mpg
+Print "usc: consumption = x mpg"
+Create an if-elif statement for gas consumption rating
+
