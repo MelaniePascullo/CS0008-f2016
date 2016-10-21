@@ -1,0 +1,10 @@
+purchase = float(input("Enter total purchase amount"))
+state_tax = purchase * .05
+county_tax = purchase * .025
+total_tax = state_tax + county_tax
+total_sale = purchase + total_tax
+print("Total purchase amount = $" + str(format(purchase, '.2f')))
+print("Sales tax = $" + str(format(state_tax, '.2f')))
+print("County tax = $" + str(format(county_tax, '.2f')))
+print("Total tax = $" + str(format(total_tax, '.2f')))
+print("Total sales = $" + str(format(total_sale, '.2f')))
