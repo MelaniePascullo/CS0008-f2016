@@ -1,0 +1,8 @@
+This program is designed to read the master input list file and retrieve the names from each of the three files in them
+individually
+After it has done this, it should take out the names and distances
+then figure out a number of different quantities
+To do this I opened the master file and instructed the program to take out the names from each of the lists
+In order to do so!
+create a for loop that gets the distance and name from each list
+After getting this information, the rest is just answering the questions that need to be answered
