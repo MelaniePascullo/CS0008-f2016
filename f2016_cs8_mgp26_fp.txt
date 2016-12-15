@@ -1,0 +1,23 @@
+You have to use the same code and logic as the third assignment...
+Ask the user to input the file name using a string
+Use a dictionary in the form of a list in the output
+Read lines in the output using readline
+Open the file
+Split the strings using line.rstrip('\n') to remove the unwanted ends of the strings
+Add the output name and distance to the dictionary - name and distance are each keys
+Define the data to be able to find the number of files and the number of lines in the file
+as well as the total distance run and each individual distance
+After this has been determined, create an empty dictionary
+Inside put the name and distance to find the minimum and maximum distances run
+print data found in the correct format
+
+
+But this time add a class
+Define the class
+The class should include the name of the participant, how many times their name appears
+in the input files and the total distance run
+Use the __init__ function
+define addDistance and set the correct distances (0 and 1)
+Return the name, distance and number of runs
+Use the __str__ function
+Print data
